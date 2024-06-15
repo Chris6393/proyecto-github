@@ -1,0 +1,31 @@
+Para comprender el empleo de repositorios de control de versiones en Git y afianzar los conceptos de
+"pull request" en el workflow GitHub Flow de la plataforma del mismo nombre, deberás llevar a cabo los
+siguientes pasos:
+
+Creación de un proyecto HTML.
+Generación del repositorio Git y el "commit" inicial de ese proyecto.
+Creación de un repositorio principal en GitHub de ese proyecto.
+Con otro usuario de GitHub, "fork" del repositorio principal.
+Clonado del repositorio "forked".
+Creación de rama y cambios en el código.
+Apertura de la "pull request".
+Cierre de la "pull request".
+Técnicamente, los procesos deben utilizar los siguientes comandos de Git.
+
+git init
+git add
+git commit
+git remote
+git push
+git clone
+git branch
+git checkout
+Desarrolla los pasos que hay que seguir para definir todo el ciclo de trabajo GitHub Flow, e indica:
+
+Qué entorno de trabajo se ha empleado.
+Qué usuario realiza cada paso.
+Qué cambios se producen en el código del proyecto.
+Qué comandos de Git se emplean.
+Qué acciones se llevan a cabo en GitHub.
+
+Importante: debes adjuntar un PDF con la explicación y capturas de pantalla de cada paso del ejercicio
